@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-15T05:40:54.437Z" agent="5.0 (Windows)" etag="WRM2BHUIVkuqx-_ZaL4z" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-15T05:45:55.184Z" agent="5.0 (Windows)" etag="-Zy0cAXOlaFWdfKQRcsG" version="16.5.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1138" dy="624" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1354" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -18,47 +18,64 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="입력창&amp;nbsp; 비어있음" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="350" y="20" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FCkr2ge7HWd6iNs4BnNl-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=block;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="WIyWlLk6GJQsqaUBKTNV-12">
+        <mxCell id="FCkr2ge7HWd6iNs4BnNl-5" value="&lt;font style=&quot;font-size: 14px&quot;&gt;yes&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=block;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="WIyWlLk6GJQsqaUBKTNV-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-6" value="&lt;div&gt;이메일 입력만&lt;/div&gt;&lt;div&gt;비었나요?&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="640" y="160" width="140" height="120" as="geometry" />
+          <mxGeometry x="640" y="80" width="140" height="120" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-8" value="Yes" style="rounded=0;jettySize=auto;orthogonalLoop=1;fontSize=13;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=default;edgeStyle=orthogonalEdgeStyle;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FCkr2ge7HWd6iNs4BnNl-15" target="WIyWlLk6GJQsqaUBKTNV-11" edge="1">
-          <mxGeometry x="-0.44" relative="1" as="geometry">
+          <mxGeometry x="0.0833" relative="1" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="120" y="480" as="sourcePoint" />
+            <mxPoint x="270" y="480" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="80" y="610" />
-              <mxPoint x="80" y="610" />
+              <mxPoint x="200" y="460" />
+              <mxPoint x="200" y="460" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="FCkr2ge7HWd6iNs4BnNl-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;fontFamily=Helvetica;fontSize=10;endArrow=block;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-10" target="FCkr2ge7HWd6iNs4BnNl-14">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="265" y="240" />
+              <mxPoint x="370" y="240" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="FCkr2ge7HWd6iNs4BnNl-31" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;fontFamily=Helvetica;" vertex="1" connectable="0" parent="FCkr2ge7HWd6iNs4BnNl-16">
-          <mxGeometry x="-0.2962" y="3" relative="1" as="geometry">
-            <mxPoint x="-13" y="18" as="offset" />
+        <mxCell id="FCkr2ge7HWd6iNs4BnNl-33" value="&lt;div&gt;YES&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontFamily=Helvetica;" vertex="1" connectable="0" parent="FCkr2ge7HWd6iNs4BnNl-16">
+          <mxGeometry x="-0.1507" y="1" relative="1" as="geometry">
+            <mxPoint x="14" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FCkr2ge7HWd6iNs4BnNl-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;fontFamily=Helvetica;fontSize=10;endArrow=block;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-10" target="FCkr2ge7HWd6iNs4BnNl-15">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="150" y="320" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="265" y="240" />
+              <mxPoint x="200" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FCkr2ge7HWd6iNs4BnNl-34" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontFamily=Helvetica;" vertex="1" connectable="0" parent="FCkr2ge7HWd6iNs4BnNl-17">
+          <mxGeometry x="-0.2456" y="3" relative="1" as="geometry">
+            <mxPoint x="-13" y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-10" value="&lt;div&gt;이메일과 비밀번호 &lt;br&gt;&lt;/div&gt;&lt;div&gt;둘 다 입력되었나요?&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="80" y="160" width="150" height="120" as="geometry" />
+          <mxGeometry x="190" y="80" width="150" height="120" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-11" value="버튼 활성화" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="20" y="670" width="120" height="40" as="geometry" />
+          <mxGeometry x="140" y="670" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-12" value="버튼 비활성화" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="650" y="400" width="120" height="40" as="geometry" />
+          <mxGeometry x="650" y="240" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FCkr2ge7HWd6iNs4BnNl-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FCkr2ge7HWd6iNs4BnNl-0">
+        <mxCell id="FCkr2ge7HWd6iNs4BnNl-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FCkr2ge7HWd6iNs4BnNl-0" target="WIyWlLk6GJQsqaUBKTNV-12">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="710" y="350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="560" y="260" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="FCkr2ge7HWd6iNs4BnNl-24" value="&lt;font style=&quot;font-size: 13px&quot;&gt;Yes&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;fontFamily=Helvetica;" vertex="1" connectable="0" parent="FCkr2ge7HWd6iNs4BnNl-9">
@@ -67,18 +84,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FCkr2ge7HWd6iNs4BnNl-0" value="&lt;div&gt;비밀번호 입력만&lt;/div&gt;&lt;div&gt;비었나요?&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="490" y="160" width="140" height="120" as="geometry" />
+          <mxGeometry x="490" y="80" width="140" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="FCkr2ge7HWd6iNs4BnNl-13" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;fontFamily=Helvetica;" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="178.66666666666674" y="60" as="geometry">
-            <mxPoint x="528" y="279" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FCkr2ge7HWd6iNs4BnNl-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;fontFamily=Helvetica;fontSize=13;endArrow=block;endFill=0;dashed=1;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FCkr2ge7HWd6iNs4BnNl-14" target="WIyWlLk6GJQsqaUBKTNV-12">
+        <mxCell id="FCkr2ge7HWd6iNs4BnNl-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=default;fontFamily=Helvetica;fontSize=13;endArrow=block;endFill=0;dashed=1;fillColor=#f8cecc;strokeColor=#b85450;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FCkr2ge7HWd6iNs4BnNl-14" target="WIyWlLk6GJQsqaUBKTNV-12">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="540" y="395" />
-              <mxPoint x="540" y="420" />
+              <mxPoint x="710" y="405" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -88,16 +99,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FCkr2ge7HWd6iNs4BnNl-14" value="&lt;div&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;이메일 입력에 &lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;&#39;@&#39;가 포함되어있나요?&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=13;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="168.67" y="370" width="120" height="50" as="geometry" />
+          <mxGeometry x="309.99999999999994" y="380" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="FCkr2ge7HWd6iNs4BnNl-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;fontFamily=Helvetica;fontSize=13;endArrow=none;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FCkr2ge7HWd6iNs4BnNl-15">
+        <mxCell id="FCkr2ge7HWd6iNs4BnNl-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;fontFamily=Helvetica;fontSize=13;endArrow=none;endFill=0;exitX=0.625;exitY=0.988;exitDx=0;exitDy=0;dashed=1;fillColor=#f8cecc;strokeColor=#b85450;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FCkr2ge7HWd6iNs4BnNl-15">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="580" y="420" as="targetPoint" />
+            <mxPoint x="710" y="405" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="150" y="395" />
-              <mxPoint x="150" y="470" />
-              <mxPoint x="580" y="470" />
-              <mxPoint x="580" y="420" />
+              <mxPoint x="230" y="429" />
+              <mxPoint x="230" y="470" />
+              <mxPoint x="710" y="470" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -107,15 +117,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FCkr2ge7HWd6iNs4BnNl-15" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;비밀번호가&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;8자 이상인가요?&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=10;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="20" y="370" width="120" height="50" as="geometry" />
+          <mxGeometry x="140" y="380" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FCkr2ge7HWd6iNs4BnNl-23" value="Yes" style="rounded=0;jettySize=auto;orthogonalLoop=1;fontSize=13;endArrow=none;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=default;edgeStyle=orthogonalEdgeStyle;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FCkr2ge7HWd6iNs4BnNl-14">
-          <mxGeometry x="-0.44" relative="1" as="geometry">
+          <mxGeometry x="-0.2448" relative="1" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="280" y="460" as="sourcePoint" />
-            <mxPoint x="80" y="610" as="targetPoint" />
+            <mxPoint x="430" y="460" as="sourcePoint" />
+            <mxPoint x="200" y="610" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="229" y="610" />
+              <mxPoint x="379" y="610" />
             </Array>
           </mxGeometry>
         </mxCell>
